@@ -1,4 +1,6 @@
 # Exp: 3c.CREATION FOR FILE TRANSFER USING TCP SOCKETS
+### NAME: HARI PRIYA M
+### REG NO: 212224240047
 ## AIM
 To write a python program for creating File Transfer using TCP Sockets Links
 ## ALGORITHM:
